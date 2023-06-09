@@ -12,7 +12,9 @@ An accomplished financial modeler and statistician, I leverage my robust analyti
   <a href="https://www.linkedin.com/in/gonsalge-almeida/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  
+  <a href="mailto:gsnperera@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
    
 </div>
 
@@ -20,13 +22,14 @@ An accomplished financial modeler and statistician, I leverage my robust analyti
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![](https://img.shields.io/badge/R--A8B9CC?style=for-the-badge&logo=R)](#)
+[![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](#)
 [![](https://img.shields.io/badge/Python--3776AB?style=for-the-badge&logo=Python)](#) 
 [![](https://img.shields.io/badge/git--F05032?style=for-the-badge&logo=git)](#) 
 [![](https://img.shields.io/badge/Django--092E20?style=for-the-badge&logo=Django)](#) 
-[![](https://img.shields.io/badge/SQL--4479A1?style=for-the-badge&logo=SQL)](#) 
+[![](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](#) 
 [![](https://img.shields.io/badge/Spark--FCC624?style=for-the-badge&logo=Spark)](#)
 [![](https://img.shields.io/badge/Linux--FCC624?style=for-the-badge&logo=Linux)](#)
+[![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)](#)
 
 
 <hr>
