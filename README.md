@@ -52,4 +52,12 @@ An accomplished financial modeler and statistician, I leverage my robust analyti
 
 
 
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/gonsalgealmeida/count.svg" alt="" /></td>
+  </tr>
+</table>
+
+
 
